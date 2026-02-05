@@ -1,1 +1,22 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.site-header {
+  background-imgae: url("images/header.jag");
+  background-size: cover;
+  background-position: center;
+  height: 220px;
+
+  display: flex;
+  align-items: center;
+}
+
+.header-inner {
+  background: rgba(0,0,0,0.5);
+  color: #fff;
+  padding: 20px 30px;
+  margin-left: 2-px;
+}
 
