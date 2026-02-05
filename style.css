@@ -2,8 +2,8 @@
   background-image: url("images/header.jpg");
   background-size: cover;
   background-position: center;
-  margin: 0;
 
+  width: 0;
   height: 120px;
   font-family: Georgia;
 
