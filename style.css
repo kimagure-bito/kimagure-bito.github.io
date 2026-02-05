@@ -5,6 +5,7 @@
   height: 110px;
   font-family: Georgia;
   text-align: center;
+  align-items: center;
 }
 
 .site-header h1 {
