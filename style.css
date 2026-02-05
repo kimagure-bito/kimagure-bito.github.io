@@ -4,7 +4,9 @@
   background-position: center;
   height: 110px;
   font-family: Georgia;
-  text-align: center;
+
+  display: flex;
+  justify-content: center;
   align-items: center;
 }
 
