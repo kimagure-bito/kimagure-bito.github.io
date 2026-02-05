@@ -7,7 +7,7 @@ body {
   background-image: url("images/header.jpg");
   background-size: cover;
   background-position: center;
-  height: 220px;
+  height: 150px;
 
   display: flex;
   align-items: center;
