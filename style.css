@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+}
+
 .site-header {
   background-image: url("images/header.jpg");
   background-size: cover;
