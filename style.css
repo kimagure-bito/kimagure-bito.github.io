@@ -39,7 +39,7 @@ body {
   gap: 30px;
 }
 
-.site-nav a {
+.site-nav a {　/* aは<a>タグを表す */
   color: #fff;
   text-decoration: none;
   font-size: 14px;
