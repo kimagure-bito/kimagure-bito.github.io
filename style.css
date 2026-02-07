@@ -73,3 +73,9 @@ body {
   border-radius: 0; /* プロフィール画像を四角のまま維持 */
   margin-bottom: 10px;
 }
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 20px;
+}
